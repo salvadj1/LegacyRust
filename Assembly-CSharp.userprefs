@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UICamera.cs">
+    <Files>
+      <File FileName="UICamera.cs" Line="1641" Column="38" />
+      <File FileName="RPOSInventoryCell.cs" Line="90" Column="25" />
+      <File FileName="NGUIHack/Event.cs" Line="49" Column="4" />
+      <File FileName="ControlMultiTouchEventHandler.cs" Line="4" Column="99" />
+      <File FileName="RPOSItemRightClickMenu.cs" Line="83" Column="28" />
+      <File FileName="UIUnityEvents.cs" Line="354" Column="20" />
+      <File FileName="NGUI.MessageUtil/Boxed.cs" Line="90" Column="6" />
+      <File FileName="NGUI.MessageUtil/Names.cs" Line="42" Column="3" />
+      <File FileName="NGUI.MessageUtil/Util.cs" Line="5" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
